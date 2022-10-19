@@ -1,3 +1,6 @@
 Hola 
 
 Agregando info del día 2 del bootcamp
+
+
+Agregando información para la consola desde visual Studio Code.
